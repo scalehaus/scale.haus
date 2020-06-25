@@ -1,0 +1,42 @@
+
+.form-component {
+    background-color: #fafafa;
+    padding:1rem 0;
+    form {
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+        margin: 0 auto;
+        border-radius: 5px;
+        padding: 4rem;
+        input, select {
+            height: 3rem;
+            margin: 1rem 0px;
+            border-radius: 5px;
+            border: 1px solid gray;
+            padding:0 1rem;
+            font-family: 'Spartan', sans-serif;
+            font-size:1.3rem;
+            background-color: white;
+        }
+        input[type="submit"] {
+            background-color:darkslateblue;
+            color:white;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+        }
+        span {
+            color:darkred;
+        }
+    }
+}
+
+@media handheld, screen and (max-width: 900px) {    
+    .form-component {
+        form {
+            width:85%;
+            padding: 1rem;
+        }
+    }
+}
