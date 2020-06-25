@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92cc2d1a.chunk.css",
+    "main.js": "/static/js/main.0530a0f6.chunk.js",
+    "main.js.map": "/static/js/main.0530a0f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5182c727.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5182c727.js.map",
+    "static/js/2.b2715c71.chunk.js": "/static/js/2.b2715c71.chunk.js",
+    "static/js/2.b2715c71.chunk.js.map": "/static/js/2.b2715c71.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.35c944ebea5915d98cc102655f535c78.js": "/precache-manifest.35c944ebea5915d98cc102655f535c78.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.92cc2d1a.chunk.css.map": "/static/css/main.92cc2d1a.chunk.css.map",
+    "static/js/2.b2715c71.chunk.js.LICENSE.txt": "/static/js/2.b2715c71.chunk.js.LICENSE.txt",
+    "static/media/Moby-logo.svg": "/static/media/Moby-logo.04329af3.svg",
+    "static/media/automate.svg": "/static/media/automate.1b2c0ca3.svg",
+    "static/media/bg.svg": "/static/media/bg.1220949f.svg",
+    "static/media/big-data.svg": "/static/media/big-data.b9347a97.svg",
+    "static/media/cloud-detail.svg": "/static/media/cloud-detail.8021e11d.svg",
+    "static/media/cloud-migrate.svg": "/static/media/cloud-migrate.9ffd9895.svg",
+    "static/media/cloud-monitoring.svg": "/static/media/cloud-monitoring.fc767cdb.svg",
+    "static/media/data-gov.svg": "/static/media/data-gov.81445251.svg",
+    "static/media/devops.svg": "/static/media/devops.84e85d41.svg",
+    "static/media/devops_icon.svg": "/static/media/devops_icon.09ce8ece.svg",
+    "static/media/iac.svg": "/static/media/iac.4b016c8a.svg",
+    "static/media/logo.png": "/static/media/logo.5a9afa62.png",
+    "static/media/monitoring.png": "/static/media/monitoring.3faa81a4.png",
+    "static/media/netork.svg": "/static/media/netork.6ed51a75.svg",
+    "static/media/people.svg": "/static/media/people.5baac340.svg",
+    "static/media/projman.svg": "/static/media/projman.b17c742e.svg",
+    "static/media/security.svg": "/static/media/security.a6faf8c7.svg",
+    "static/media/terraform.svg": "/static/media/terraform.e2c37a33.svg",
+    "static/media/throughput.svg": "/static/media/throughput.dd880d76.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5182c727.js",
+    "static/js/2.b2715c71.chunk.js",
+    "static/css/main.92cc2d1a.chunk.css",
+    "static/js/main.0530a0f6.chunk.js"
+  ]
+}
