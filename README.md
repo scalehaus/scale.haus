@@ -1,2 +1,0 @@
-# scale.haus
-Marketing Site
